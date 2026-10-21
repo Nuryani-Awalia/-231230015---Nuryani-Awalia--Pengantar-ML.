@@ -1,4 +1,4 @@
-# 2312300015 - Pengantar Machine Learning
+# 231230015 - Pengantar Machine Learning
 
 **Nama:** Nuryani Awalia
 **NIM:** 231230015
